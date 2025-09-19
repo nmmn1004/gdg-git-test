@@ -1,0 +1,9 @@
+mkdir gdg-git
+git init
+git clone { URL }
+touch { name }.txt
+cat { name }.txt
+i
+{ modify }
+{ esc }
+:wq
